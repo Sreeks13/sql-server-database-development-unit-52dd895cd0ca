@@ -1,4 +1,4 @@
-USE TaxiDB;
+﻿USE TaxiDB;
 GO
 
 CREATE OR ALTER PROCEDURE dbo.uspLogTrip
